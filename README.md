@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👋 Hi, I'm Thejas Gowda! From INDIA<br><br>- 🔭 I’m currently studying at Dayananda Sagar University<br>- 🌱 I’m currently learning Data Science, Coding, and Ethical Hacking<br>- 💬 Ask me about Trading, Investing, Crypto<br>- 📫 How to reach me: tthejasgowda095@gmail.com<br><br><br>
+<br>👋 Hi, I'm Thejas Gowda! From INDIA<br><br>- 🔭 I’m currently studying at Dayananda Sagar University<br>- 🌱 I’m currently learning Data Science, Coding, and Cryptography<br>- 💬 Ask me about Trading, Investing, Crypto<br>- 📫 How to reach me: tthejasgowda095@gmail.com<br><br><br>
 
 
 # 💻 Tech Stack:
